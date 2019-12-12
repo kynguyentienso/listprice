@@ -1,4 +1,3 @@
-coheo
 ! function() {
     var e;
     if (void 0 === window.jQuery || "1.11.1" !== window.jQuery.fn.jquery) {
